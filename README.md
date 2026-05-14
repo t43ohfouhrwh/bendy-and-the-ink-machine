@@ -1,1 +1,1 @@
-# bendy-and-the-ink-machine
+# Bendy and the Ink Machine
